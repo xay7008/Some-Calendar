@@ -13,8 +13,8 @@ dependencies:
   flutter:
     sdk: flutter
 
-  jiffy: ^3.0.1
-  intl: ^0.16.0
+  jiffy: 
+  intl: 
 
 dev_dependencies:
   flutter_test:
